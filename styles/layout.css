@@ -1,0 +1,12 @@
+body {
+    font-family: sans-serif;
+    background-color: #f9f9f9;
+    margin: 20px;
+    text-align: center;
+}
+
+.dish {
+    margin-bottom: 40px;
+    padding: 15px;
+    border-bottom: 1px solid #ccc;
+}
